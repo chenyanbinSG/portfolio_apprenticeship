@@ -13,7 +13,7 @@ to prototyping, building and implementing of dashboards/ Google Sheets.
 
 This apprenticeship has been an incredibly rewarding journey, especially with the opportunity to gain real-life experience and work alongside various business stakeholders. Not to forget keeping abreast with the evolving modern data stack adopted. 
 
-To celebrate my first milestone in my mid career switch, I am creating this compilation to showcase some of the dashboards which I had created during my apprenticeship. To complement the dashboard, I have also designed simple banners. 
+To celebrate my first milestone in my mid career switch, I am creating this compilation to showcase some of the dashboards which I had created during my apprenticeship. I have also designed simple banners to complement the dashboards.
 
 ## Dashboard 1: Automating Analysis of Zoom Webinars featuring multiple projects 
 As it was time-consuming to generate and download the webinar reports after every session to analyse the data, the process was automated by ingesting the data into multiple datasets and thereafter joined with internal user and CRM databases to do analytical querying.
